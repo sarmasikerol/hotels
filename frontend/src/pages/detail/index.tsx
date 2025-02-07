@@ -37,7 +37,7 @@ const Detail = () => {
             <p className="text-zinc-700">{data.description}</p>
             <img className="rounded-lg" src={data.image_url} alt={data.name} />
 
-            <Features array={data} />
+            <Features array={data.amenities} />
 
             <div className="flex justify-between gap-2 items-center mt-5">
               <p className="text-xl font-semibold">
