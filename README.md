@@ -33,4 +33,5 @@ This project is a full-stack hotel reservation system that allows listing, filte
 - Form handling with Formik
 - Notification management with Toastify
 
+- Gif Screen
 ![](ekran.gif)
